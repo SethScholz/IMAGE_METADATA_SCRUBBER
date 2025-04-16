@@ -7,9 +7,9 @@ specific to the device the image was taken on, etc., and you want to completely 
 from the image metadata.
 
 ## Repository Contents
-- Contains an executable (METADATA_SCRUBBER.exe) to run the program.
-- Includes the Python Source File (METADATA_SCRUBBER.py) so all may view the program's code, ensure it is safe, and make edits
-as desired.
+- The executable (METADATA_SCRUBBER.exe) to run the program.
+- The Python Source File (METADATA_SCRUBBER.py) so all may view the program's code, ensure it is safe, and make edits as desired.
+- This README.md file
 
 ## What's Needed/What to Expect
 If your goal is simply to remove personally identifiable metadata from images, you will only need the METADATA_SCRUBBER.exe file. 
