@@ -16,7 +16,8 @@ If your goal is simply to remove personally identifiable metadata from images, y
 Once you run this file, it will open your file explorer so that you can select the image whose data you wish to scrub. Once you
 have selected your file and clicked 'Open', the program will automatically scrub EXIF data, ICC profiles, XMP metadata, and IPTC
 metadata, depending on the image format and software used. The program will mostly focus on removing EXIF data, which includes, 
-but it not limited to: the camera model, timestamp, GPS coordinates, etc.
+but it not limited to: the camera model, timestamp, GPS coordinates, etc.  
+
 If, however, you wish to improve upon the design on this program (it is rather basic), I have included the Python Source File
 METADATA_SCRUBBER.py for your **personal use only.**
 
