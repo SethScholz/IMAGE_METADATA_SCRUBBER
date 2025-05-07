@@ -29,7 +29,7 @@ additional metadata (such as file system data, timestamps, or cloud service wate
 Additionally, this program does not modify or erase file names, operating system-level metadata, or forensic watermarks 
 sometimes inserted by proprietary software or surveillance tools. If you're under surveillance, distributing or using original
 image files (even scrubbed ones) can still carry risks. It is strongly advised to convert images to completely new formats
-after sanitizing them and avoid reusing images captured by known devices.
+after sanitizing them, sanitize those new images, and avoid reusing images captured by known devices.
 
 ## Notes on Image formats
 - JPEG/JPG: Full EXIF metadata removal supported. ICC profiles also stripped.
