@@ -19,7 +19,8 @@ metadata, depending on the image format and software used. The program will most
 but it not limited to: the camera model, timestamp, GPS coordinates, etc.  
 
 If, however, you wish to improve upon the design on this program (it is rather basic), I have included the Python Source File
-METADATA_SCRUBBER.py for your **personal use only.**
+METADATA_SCRUBBER.py for your **personal use** and I do not claim any affiliation with nor responsibility for how one chooses to
+use this publicly available tool that was created with the intention to help, not harm people.
 
 ## Warning
 This program is intended to remove metadata embedded within the image file itself—EXIF, ICC, XMP, and IPTC formats, where 
